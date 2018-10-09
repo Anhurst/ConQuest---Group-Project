@@ -17,3 +17,6 @@ We will be designing an app that helps kids with social anxiety disorder. Our ap
 
 
 https://www.youtube.com/watch?v=79t0XfF8YsY
+
+# Annalise Hurst
+anhurst28@gmail.com
