@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#2d9cdb">
+
+    <com.pkmmte.view.CircularImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:border="true"
+        app:border_width="1dp"
+        android:id="@+id/animationView"
+        android:layout_gravity="center" />
+</LinearLayout>

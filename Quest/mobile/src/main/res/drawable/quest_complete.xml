@@ -1,0 +1,16 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/quest_complete00" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete01" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete02" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete03" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete04" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete05" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete06" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete07" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete08" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete09" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete10" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete11" android:duration="50" />
+    <item android:drawable="@drawable/quest_complete12" android:duration="50" />
+</animation-list>

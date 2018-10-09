@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.group23.quest.InProgressFragment"
+    android:background="#ffffff">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="BPM"
+        android:id="@+id/textView"
+        android:textColor="#4b8dff"
+        android:layout_marginBottom="45dp"
+        android:textSize="12pt"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/heartRateTextView"
+        android:textColor="#000000"
+        android:textSize="30pt"
+        android:layout_marginBottom="17dp"
+        android:layout_above="@+id/textView"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

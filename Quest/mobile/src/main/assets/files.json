@@ -1,0 +1,172 @@
+{
+  "public speaking":[
+    {
+      "id": 0,
+      "title":"Hello World!",
+      "description":"Say hello to a stranger until you get a greeting in return.",
+      "tip":"Try picking someone who's smiling, happy people are more likely to want to talk.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 1,
+      "title":"Charades",
+      "description":"Play a game of charades with your family.",
+      "tip":"You'll look silly while acting things out, but so will everyone else, so don't worry and try to get laughs.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 2,
+      "title":"Show & Tell",
+      "description":"Find something cool and show it to a group of your friends.",
+      "tip":"Show them what you're really interested in, one of them might think it's really cool too.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 3,
+      "title":"Family Announcement",
+      "description":"Make an announcement to your family.",
+      "tip":"It can be anything, that you love them, something you want to get off your chest, or just telling them about some plans.",
+      "complete": false,
+      "heart rate":""
+    }
+  ],
+  "self awareness":[
+    {
+      "id": 4,
+      "title":"Repeat",
+      "description":"Wear the same clothes you did yesterday.",
+      "tip":"Very few people will notice, and those who do notice don't mind",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 5,
+      "title":"Hug It Out",
+      "description":"Give someone a hug!",
+      "tip":"It can be a family member, or if you're feeling daring, a friend.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 6,
+      "title":"Save Point",
+      "description":"Describe 4 experiences where you felt very anxious, and then think about how you could calm yourself down and write about that.",
+      "tip":"Be honest with yourself, no one else has to see your journal.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 7,
+      "title":"People Watching",
+      "description":"Go somewhere public and watch the people for 30-60 minutes",
+      "tip":"People watching can be fun, and it can be helpful to see both how others perform normal tasks and mess up with confidence. It might even be good to take notes!",
+      "complete": false,
+      "heart rate":""
+    }
+  ],
+  "conversations":[
+    {
+      "id": 8,
+      "title":"What Time is It?",
+      "description":"Ask a stranger what time it is.",
+      "tip":"Everyone has a phone or watch now, so it's easy for them to give you the time.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 9,
+      "title":"Talk to 5 People",
+      "description":"Say hi to 5 random people.",
+      "tip":"Everyone has a phone or watch now, so it's easy for them to give you the time.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 10,
+      "title":"Compliment",
+      "description":"Give someone an honest compliment.",
+      "tip":"If you're nice to others, they will likely be nice to you as well.",
+      "complete": false,
+      "heart rate":""
+    },
+    {
+      "id": 11,
+      "title":"Which Way?",
+      "description":"Ask a stranger for directions.",
+      "tip":"It can be somewhere you already know the way to.",
+      "complete": false,
+      "heart rate":""
+    }
+  ],
+  "completing tasks":[
+    {
+      "id": 12,
+      "title":"Hidden Items",
+      "description":"Ask a cashier to buy something from the wall behind the counter.",
+      "tip":"It's a normal part of the cashier's job, they won't think twice about it.",
+      "complete": false,
+      "heart rate": ""
+    },
+    {
+      "id": 13,
+      "title":"Family Dinner",
+      "description":"Ask your family what kinds of food they like, then have them all help you cook a meal for the family.",
+      "tip":"If you don't know how to cook, even better, have your family teach you, cooking is an important skill.",
+      "complete": false,
+      "heart rate": ""
+    },
+    {
+      "id": 14,
+      "title":"Clean Up",
+      "description":"Ask your teacher to let you help clean up the classroom.",
+      "tip":"It's good to be friends with your teacher.",
+      "complete": false,
+      "heart rate": ""
+    },
+    {
+      "id": 15,
+      "title":"Organizer",
+      "description":"Invite all your friends to watch a movie together.",
+      "tip":"Find something you want to see, odds are your friends will want to see it too!",
+      "complete": false,
+      "heart rate": ""
+    }
+  ],
+  "social environments":[
+    {
+      "id": 16,
+      "title":"Paper Cafe",
+      "description":"Go to a nearby cafe and do your homework for the day there instead of at home.",
+      "tip":"Cafes can be noisy sometimes, but they are good places to meet new people. If you get overwhelmed, try putting on headphones.",
+      "complete": false,
+      "heart rate": ""
+    },
+    {
+      "id": 17,
+      "title":"Hit the Stacks",
+      "description":"Instead of doing your homework at home, work on it in a local library.",
+      "tip":"If you can, meet up and study with a friend at the library.",
+      "complete": false,
+      "heart rate": ""
+    },
+    {
+      "id": 18,
+      "title":"Think Tank",
+      "description":"Join a study group or club.",
+      "tip":"People like to do things in groups, and studying can often lead into hanging out.",
+      "complete": false,
+      "heart rate": ""
+    },
+    {
+      "id": 19,
+      "title":"Take a Hike",
+      "description":"Organize and go on a hike.",
+      "tip":"You can go with just your family, or you can go with a bigger group, or just a couple friends. Each presents its own challenges.",
+      "complete": false,
+      "heart rate": ""
+    }
+  ]
+}
